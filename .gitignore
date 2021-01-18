@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MakkajaiSalesTax/.vs/MakkajaiSalesTax/v16
+/MakkajaiSalesTax/MakkajaiSalesTax/obj
+/MakkajaiSalesTax/MakkajaiSalesTax/bin/Debug/netcoreapp3.1
